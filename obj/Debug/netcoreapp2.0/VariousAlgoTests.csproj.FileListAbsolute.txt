@@ -1,0 +1,11 @@
+/Users/kibo/Projects/VariousAlgoTests/bin/Debug/netcoreapp2.0/VariousAlgoTests.deps.json
+/Users/kibo/Projects/VariousAlgoTests/bin/Debug/netcoreapp2.0/VariousAlgoTests.runtimeconfig.json
+/Users/kibo/Projects/VariousAlgoTests/bin/Debug/netcoreapp2.0/VariousAlgoTests.runtimeconfig.dev.json
+/Users/kibo/Projects/VariousAlgoTests/bin/Debug/netcoreapp2.0/VariousAlgoTests.dll
+/Users/kibo/Projects/VariousAlgoTests/bin/Debug/netcoreapp2.0/VariousAlgoTests.pdb
+/Users/kibo/Projects/VariousAlgoTests/obj/Debug/netcoreapp2.0/VariousAlgoTests.csprojResolveAssemblyReference.cache
+/Users/kibo/Projects/VariousAlgoTests/obj/Debug/netcoreapp2.0/VariousAlgoTests.csproj.CoreCompileInputs.cache
+/Users/kibo/Projects/VariousAlgoTests/obj/Debug/netcoreapp2.0/VariousAlgoTests.AssemblyInfoInputs.cache
+/Users/kibo/Projects/VariousAlgoTests/obj/Debug/netcoreapp2.0/VariousAlgoTests.AssemblyInfo.cs
+/Users/kibo/Projects/VariousAlgoTests/obj/Debug/netcoreapp2.0/VariousAlgoTests.dll
+/Users/kibo/Projects/VariousAlgoTests/obj/Debug/netcoreapp2.0/VariousAlgoTests.pdb
